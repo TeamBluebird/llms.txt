@@ -1,38 +1,100 @@
-# Bluebird Business Consulting, a Canadian corporation
+# Bluebird Business Consulting
 
-> Creators of Bluebird Ai - AI-powered business plans for Canadian entrepreneurs and small business owners.
+> Bluebird Business Consulting is a federally incorporated Canadian company based in Timmins, Ontario, founded by Mike Scott. Its flagship product, Bluebird Ai - The Canadian Business Plan Generator, turns about 20 questions into a complete, lender-ready 15-20 page business plan built for the Canadian market and delivered within 20 minutes. This is the plan your lender asked for. Tagline: "Guiding Your Business to Blue Skies."
 
-Bluebird Business Consulting helps Canadian small business owners, 
-contractors, and tradespeople create professional business plans, 
-cash flow projections, and funding-ready documents — powered by AI 
-and built for the Canadian market.
+Bluebird Business Consulting has worked hands-on with small businesses across Canada since 2020, helping owners build clear, credible business plans for banks, credit unions, the Business Development Bank of Canada (BDC), the Canada Small Business Financing Program (CSBFP), and provincial and federal grant programs. That consulting experience is the foundation of Bluebird Ai, launched in 2026. The brand name is always written "Bluebird Ai" (capital B, lowercase i).
+
+Brand values: Excellence, Integrity, Innovation, Client-Centricity, Continuous Improvement. Voice: clear, practical, local, human, confident, never hype.
+
+## Flagship Product: Bluebird Ai - The Canadian Business Plan Generator
+
+- [Bluebird Ai - start your business plan](https://ai.bluebirdbusinessconsulting.com/): The app and checkout. Answer about 20 questions about your business or idea; Bluebird Ai writes the plan and emails it to you.
+
+What you get with every plan:
+
+- 15-20 page professional business plan written for your specific business and Canadian context
+- 3-year financial projections
+- Canadian market analysis
+- SWOT analysis and risk assessment
+- Executive summary, company description, products and services, marketing strategy, operations plan, and funding requirements
+- PDF plus editable Word document, delivered to your email inbox
+- Delivered within 20 minutes of completing the questionnaire
+- Complimentary 60-minute review session with Mike Scott, creator of Bluebird Ai, to review and refine the plan
+- One-time purchase; no subscription
+
+Pricing (CAD):
+
+- Entrepreneurs and business owners: $299 CAD one-time per plan (compared with $2,000 to $10,000 for a traditional consultant-written plan)
+- Business consultants and advisors: $149 CAD per plan for client work
+- Purchase at https://ai.bluebirdbusinessconsulting.com/
+
+## Who Bluebird Ai Is For
+
+- New entrepreneurs seeking start-up funding, financing, or investment
+- Expanding businesses updating an outdated plan to grow or pivot
+- Independent business consultants and advisors who want to build client-ready plans in minutes ($149 CAD per plan)
+- New Canadians starting a business whose bank needs a Canadian business plan
+- Health professionals (dentists, optometrists, physiotherapists, chiropractors, pharmacists, veterinarians) opening or buying a practice with lender financing
+- Business purchasers who need a plan for acquisition financing
+- Tradespeople and contractors (HVAC, plumbing, roofing, carpentry, electrical) formalizing or growing a trade business
+- Canadian small business owners in every province and territory
+
+## Canadian Lender Readiness
+
+Bluebird Ai plans follow the structure Canadian lenders and grant programs expect:
+
+- Canada Small Business Financing Program (CSBFP) loans through chartered banks and credit unions
+- Business Development Bank of Canada (BDC) term loans and advisory programs
+- Credit union and community lender applications
+- Provincial and federal grant programs (for example FedDev Ontario and regional development agencies)
+- Investor and partner pitches, and business acquisition financing
+
+Each plan includes the sections lenders look for: executive summary, company description and legal structure, market analysis, SWOT and risk assessment, marketing strategy, operations, and full financial projections with the funding request clearly stated.
+
+## Frequently Asked Questions
+
+- How long does it take? Your plan arrives in your inbox within 20 minutes of completing the questionnaire.
+- How long is the plan? 15-20 pages, the length Canadian lenders expect.
+- What does it cost? $299 CAD one-time for entrepreneurs; $149 CAD per plan for business consultants and advisors. No subscription.
+- Is it really custom? Yes. The plan is generated from your answers about your business, market, competitors, team, costs, and revenue. It is not a template with your name inserted.
+- Is it accepted by Canadian banks? Plans are structured to meet the expectations of Canadian banks, credit unions, BDC, CSBFP lenders, and grant programs. Final approval always depends on the lender and your overall application.
+- Can I edit the plan? Yes. You receive both a PDF and an editable Word document.
+- Is there human support? Yes. Every plan includes a complimentary 60-minute review session with Mike Scott, creator of Bluebird Ai, and hands-on help is available at hello@bluebirdbusinessconsulting.com.
+- Is it a subscription? No. It is a one-time purchase with no hidden fees.
+- Is it Canadian? Yes. Built by Canadians, for Canadians, with Canadian market context, lenders, and programs in mind.
+- Can I see a sample first? Yes. See https://bluebirdbusinessconsulting.com/sample
 
 ## Core Pages
 
-- [Home](https://www.bluebirdbusinessconsulting.com)
-- [Business Plans](https://www.trybluebird.ai)
-- [Blog](https://www.bluebirdbusinessconsulting.com/blog)
+- [Home](https://bluebirdbusinessconsulting.com/): Overview of Bluebird Ai, sample plan preview, testimonials, and free 2026 Canadian Business Plan Checklist
+- [Services](https://bluebirdbusinessconsulting.com/services): How Bluebird Ai works in three steps and what is included
+- [About](https://bluebirdbusinessconsulting.com/about): Company story, founder Mike Scott, values, and ideal clients
+- [Sample Business Plan](https://bluebirdbusinessconsulting.com/sample): Preview pages from a real Bluebird Ai business plan
+- [Blog](https://bluebirdbusinessconsulting.com/blog): Guides on business planning and financing in Canada
+- [Contact](https://bluebirdbusinessconsulting.com/contact): Contact form and email
 
-## Who We Serve
+## Blog Articles
 
-- HVAC contractors
-- Plumbers
-- Roofers
-- Carpenters
-- Electricians
-- Canadian small business owners
-- First-time entrepreneurs
+- [What Do Canadian Banks Actually Require in a Business Plan?](https://bluebirdbusinessconsulting.com/blog/what-do-canadian-banks-actually-require-in-a-business-plan): The six core sections Canadian lenders expect, common mistakes, and notes on BDC, CSBFP, and FedDev
+- [How to Write a Business Plan in Canada (2026)](https://bluebirdbusinessconsulting.com/blog/how-to-write-a-business-plan-in-canada-2026): Section-by-section guide to a Canadian business plan, length, timing, and common mistakes
+- [Top 3 AI Tools Every Canadian Small Business Owner Should Be Using in 2026](https://bluebirdbusinessconsulting.com/blog/parqzyo96qy3xv50oc2e7ylcg4fs2b): Practical AI tools for Canadian small businesses, including Bluebird Ai
 
-## What We Offer
+## Company Details
 
-- Tailored AI-generated business plans in under an hour
-- Bilingual service (English & French)
+- Legal name: Bluebird Business Consulting
+- Founder and Lead Consultant: Mike Scott
+- Location: Timmins, Ontario, Canada; serving all provinces and territories
+- Languages: English and French
+- Website: https://bluebirdbusinessconsulting.com/
+- App: https://ai.bluebirdbusinessconsulting.com/
+- Email: hello@bluebirdbusinessconsulting.com
+- Contact page: https://bluebirdbusinessconsulting.com/contact
 
-## Location
+## Optional
 
-Canada — serving all provinces and territories
-
-## Contact
-
-https://www.bluebirdbusinessconsulting.com/contact
-hello@bluebirdbusinessconsulting.com
+- [LinkedIn](https://www.linkedin.com/company/bluebird-business-consulting)
+- [Facebook](https://www.facebook.com/bluebirdbusinessconsulting)
+- [Instagram](https://www.instagram.com/bluebirdbusinessconsulting/)
+- [X](https://x.com/BluebirdBC)
+- [TikTok](https://www.tiktok.com/@bluebird.business)
+- [YouTube](https://www.youtube.com/@BluebirdBusinessConsulting)
