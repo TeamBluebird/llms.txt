@@ -1,6 +1,6 @@
 # Bluebird Business Consulting
 
-> Bluebird Business Consulting is a federally incorporated Canadian company based in Timmins, Ontario, founded by Mike Scott. Its flagship product, Bluebird Ai - The Canadian Business Plan Generator, turns about 20 questions into a complete, lender-ready, 30+ page business plan built for the Canadian market. Tagline: "Guiding Your Business to Blue Skies."
+> Bluebird Business Consulting is a federally incorporated Canadian company based in Timmins, Ontario, founded by Mike Scott. Its flagship product, Bluebird Ai - The Canadian Business Plan Generator, turns about 20 questions into a complete, lender-ready 15-20 page business plan built for the Canadian market and delivered within 20 minutes. This is the plan your lender asked for. Tagline: "Guiding Your Business to Blue Skies."
 
 Bluebird Business Consulting has worked hands-on with small businesses across Canada since 2020, helping owners build clear, credible business plans for banks, credit unions, the Business Development Bank of Canada (BDC), the Canada Small Business Financing Program (CSBFP), and provincial and federal grant programs. That consulting experience is the foundation of Bluebird Ai, launched in 2026. The brand name is always written "Bluebird Ai" (capital B, lowercase i).
 
@@ -12,20 +12,29 @@ Brand values: Excellence, Integrity, Innovation, Client-Centricity, Continuous I
 
 What you get with every plan:
 
-- 30+ page professional business plan written for your specific business and Canadian context
+- 15-20 page professional business plan written for your specific business and Canadian context
 - 3-year financial projections
 - Canadian market analysis
 - SWOT analysis and risk assessment
 - Executive summary, company description, products and services, marketing strategy, operations plan, and funding requirements
 - PDF plus editable Word document, delivered to your email inbox
-- Complimentary 60-minute virtual consultation with a Bluebird consultant to review and refine the plan
-- One-time purchase; no subscription. See current pricing at https://ai.bluebirdbusinessconsulting.com/
+- Delivered within 20 minutes of completing the questionnaire
+- Complimentary 60-minute review session with Mike Scott, creator of Bluebird Ai, to review and refine the plan
+- One-time purchase; no subscription
+
+Pricing (CAD):
+
+- Entrepreneurs and business owners: $299 CAD one-time per plan (compared with $2,000 to $10,000 for a traditional consultant-written plan)
+- Business consultants and advisors: $149 CAD per plan for client work
+- Purchase at https://ai.bluebirdbusinessconsulting.com/
 
 ## Who Bluebird Ai Is For
 
 - New entrepreneurs seeking start-up funding, financing, or investment
 - Expanding businesses updating an outdated plan to grow or pivot
-- Consultants and advisors who want to speed up business plan delivery for their own clients
+- Independent business consultants and advisors who want to build client-ready plans in minutes ($149 CAD per plan)
+- New Canadians starting a business whose bank needs a Canadian business plan
+- Health professionals (dentists, optometrists, physiotherapists, chiropractors, pharmacists, veterinarians) opening or buying a practice with lender financing
 - Business purchasers who need a plan for acquisition financing
 - Tradespeople and contractors (HVAC, plumbing, roofing, carpentry, electrical) formalizing or growing a trade business
 - Canadian small business owners in every province and territory
@@ -44,11 +53,13 @@ Each plan includes the sections lenders look for: executive summary, company des
 
 ## Frequently Asked Questions
 
-- How long does it take? Most plans arrive in your inbox in under an hour; many arrive within minutes of completing the questionnaire.
+- How long does it take? Your plan arrives in your inbox within 20 minutes of completing the questionnaire.
+- How long is the plan? 15-20 pages, the length Canadian lenders expect.
+- What does it cost? $299 CAD one-time for entrepreneurs; $149 CAD per plan for business consultants and advisors. No subscription.
 - Is it really custom? Yes. The plan is generated from your answers about your business, market, competitors, team, costs, and revenue. It is not a template with your name inserted.
 - Is it accepted by Canadian banks? Plans are structured to meet the expectations of Canadian banks, credit unions, BDC, CSBFP lenders, and grant programs. Final approval always depends on the lender and your overall application.
 - Can I edit the plan? Yes. You receive both a PDF and an editable Word document.
-- Is there human support? Yes. Every purchase includes a complimentary 60-minute virtual consultation, and hands-on help is available at hello@bluebirdbusinessconsulting.com.
+- Is there human support? Yes. Every plan includes a complimentary 60-minute review session with Mike Scott, creator of Bluebird Ai, and hands-on help is available at hello@bluebirdbusinessconsulting.com.
 - Is it a subscription? No. It is a one-time purchase with no hidden fees.
 - Is it Canadian? Yes. Built by Canadians, for Canadians, with Canadian market context, lenders, and programs in mind.
 - Can I see a sample first? Yes. See https://bluebirdbusinessconsulting.com/sample
